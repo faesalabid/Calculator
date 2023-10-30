@@ -88,6 +88,7 @@
    
 }
 button{
+    touch-action: manipulation;
     box-shadow: -2px -2px 4px 2px rgb(92, 90, 90), 2px 2px 4px 2px rgb(37, 25, 25);
     background-color: rgb(65, 64, 64);
     border: 0;
